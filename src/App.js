@@ -8,7 +8,6 @@ import ForzaPage from './components/ForzaPage';
 
 function App() {
   return (
-    //<Routes>
       <div>
         <Menu />
         <div className="page">
@@ -20,7 +19,6 @@ function App() {
           </Routes>
         </div>
       </div>
-   // </Routes>
   );
 }
 
